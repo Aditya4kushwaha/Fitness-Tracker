@@ -23,5 +23,3 @@ It helps users track workouts, progress, and fitness stats with a clean and resp
 - 🌙 Modern design with responsive layout  
 
 ---
-cd fitness-tracker
-npm install
